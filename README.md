@@ -7,17 +7,17 @@
 
  <br />
  <br />
- <img src="https://raw.githubusercontent.com/Lucy-de-Rojas/Menu13/master/src/React-logo.jpg" width="40%" />
+ <img src="https://raw.githubusercontent.com/Lucy-de-Rojas/Menu13-Next/master/src/Next-logo.jpg" width="50%" />
 <br />
 component to for setting up menu with links to pages.
 
 
 ## Installation:
-`npm i @lucyderojas/menu13`
+`npm i @lucyderojas/menu13-next`
 
 ## Import:
 
-`import Menu from '@lucyderojas/menu13/dist/Menu';`
+`import Menu from '@lucyderojas/menu13-next/dist/Menu';`
 
 ## Use with default values:
 `<Menu />`
@@ -69,12 +69,12 @@ component to for setting up menu with links to pages.
 
 <br /><br />
 # Github & NPM source code:
-<a href="https://github.com/Lucy-de-Rojas/Menu13" >
+<a href="https://github.com/Lucy-de-Rojas/Menu13-Next" >
 <img src="https://raw.githubusercontent.com/Lucy-de-Rojas/Menu13/master/src/Media/Github-logo.jpg" width="40%" />
 </a>
 
 <br />
-<a href="https://www.npmjs.com/package/@lucyderojas/menu13" target="_blank">
+<a href="https://www.npmjs.com/package/@lucyderojas/menu13-next" target="_blank">
 <img src="https://raw.githubusercontent.com/Lucy-de-Rojas/Menu13/master/src/Media/NPM-logo.jpg" width="40%">
 
 </a>
