@@ -90,6 +90,18 @@ Any issues or suggestions welcome.
 
 
 <br /><br />
+
+
+# React version:
+
+<img src="https://raw.githubusercontent.com/Lucy-de-Rojas/Menu13/master/src/React-logo.jpg" width="40%" />
+
+<a href='https://www.npmjs.com/package/@lucyderojas/menu13'>
+>> React Version <<
+</a>
+
+
+<br /><br />
 # Colaboration
 Always on look out for projects to get my hand dirty.
 <br />

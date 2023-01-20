@@ -1,6 +1,6 @@
 {
   "name": "@lucyderojas/menu13-next",
-  "version": "0.0.5",
+  "version": "1.0.1",
   "private": false,
   "main": "dist/index.js",
   "files": ["README.MD","dist"],
@@ -21,7 +21,8 @@
     "eject": "react-scripts eject",
     "clean": "rimraf dist",
     "compile": "npm run clean && cross-env NODE_ENV=production babel src/components --out-dir dist --copy-files --ignore __tests__,spec.js,test.js,stories.js,__snapshots__",
-    "compileAndPublic":"npm run compile && npm publish --access=public"
+    "compileAndPublish":"npm run compile && npm publish --access=public",
+    "gitPush":"git add . && git commit -m 'new' && git push"
   },
   "eslintConfig": {
     "extends": [
