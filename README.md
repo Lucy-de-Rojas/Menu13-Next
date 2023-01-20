@@ -27,10 +27,14 @@ component to for setting up menu with links to pages.
 
 
 
+
+
 <br />
 
 <h1>Customise your <br />
 <img src='https://raw.githubusercontent.com/Lucy-de-Rojas/Menu13/master/src/Media/Logo.png' width="30%"></h1>
+
+You will need to restart your dev server after each change.
 <!-- pages, width, cornerRadius, align, backgroundBasic, colorBasic, backgroundHover, colorHover, backgroundSelected, colorSelected -->
 
 
