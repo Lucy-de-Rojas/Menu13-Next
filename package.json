@@ -1,6 +1,6 @@
 {
   "name": "@lucyderojas/menu13-next",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "private": false,
   "main": "dist/index.js",
   "files": ["README.MD","dist"],
