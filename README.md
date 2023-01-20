@@ -1,70 +1,96 @@
-# Getting Started with Create React App
+<div align="center">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+<!-- https://raw.githubusercontent.com/Lucy-de-Rojas/Menu13/master/src/Media/Logo.png -->
+ <br />
+ <img src='https://raw.githubusercontent.com/Lucy-de-Rojas/Menu13/master/src/Media/Logo.png' width='70%' />
 
-In the project directory, you can run:
+ <br />
+ <br />
+ <img src="https://raw.githubusercontent.com/Lucy-de-Rojas/Menu13/master/src/React-logo.jpg" width="40%" />
+<br />
+component to for setting up menu with links to pages.
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Installation:
+`npm i @lucyderojas/menu13`
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Import:
 
-### `npm test`
+`import Menu from '@lucyderojas/menu13/dist/Menu';`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Use with default values:
+`<Menu />`
+<br />
 
-### `npm run build`
+<img src='https://raw.githubusercontent.com/Lucy-de-Rojas/Menu13/master/src/Media/MenuBasic.png' width='80%'/>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<br />
 
-### `npm run eject`
+<h1>Customise your <br />
+<img src='https://raw.githubusercontent.com/Lucy-de-Rojas/Menu13/master/src/Media/Logo.png' width="30%"></h1>
+<!-- pages, width, cornerRadius, align, backgroundBasic, colorBasic, backgroundHover, colorHover, backgroundSelected, colorSelected -->
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<div align="left">
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+>`<Menu ` <br />
+>>`pages = {['page1', 'page2', ...]}` <br />
+`width= '50%' || '600px'` <br />
+`cornerRadius  = '50%' || '6px''`  <br />
+`align  = 'left' || 'center' || 'right'`  <br /><br />
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+#basic colors: <br />
+`backgroundBasic  = 'red' || 'rgb(1,2,3)' || 'hls(1,2,3)' || '#ffffff'`  <br />
+`colorBasic =  'white' || 'rgb(1,2,3)' || 'hls(1,2,3)' || '#000000'`<br /><br />
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+#colours on hover: <br />
+`backgroundHover = 'white' || 'rgb(1,2,3)' || 'hls(1,2,3)' || '#gggggg'` <br />
+`colorHover =  'white' || 'rgb(1,2,3)' || 'hls(1,2,3)' || '#rrrrrr'`<br /><br />
+#colours of selected item:<br />
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+`backgroundSelected =  'blue' || 'rgb(1,2,3)' || 'hls(1,2,3)' || '#333333'` <br />
+`colorSelected =  'white' || 'rgb(1,2,3)' || 'hls(1,2,3)' || '#wwwwww'`
 
-### Making a Progressive Web App
+>`/>`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+</div>
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
+<br /><br />
+# Github & NPM source code:
+<a href="https://github.com/Lucy-de-Rojas/Menu13" >
+<img src="https://raw.githubusercontent.com/Lucy-de-Rojas/Menu13/master/src/Media/Github-logo.jpg" width="40%" />
+</a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<br />
+<a href="https://www.npmjs.com/package/@lucyderojas/menu13" target="_blank">
+<img src="https://raw.githubusercontent.com/Lucy-de-Rojas/Menu13/master/src/Media/NPM-logo.jpg" width="40%">
+
+</a>
+
+<br /><br />
+
+# Comments Welcome
+Any issues or suggestions welcome.
+
+
+<br /><br />
+# Colaboration
+Always on look out for projects to get my hand dirty.
+<br />
+
+<img src="https://raw.githubusercontent.com/Lucy-de-Rojas/Menu13/master/src/Media/github-animation-final.gif" width="100%" />
+
+
+</div>
